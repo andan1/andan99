@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="andan github!"&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=andan github&fontSize=90" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andan1)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andan1)](https://github.com/anuraghazra/github-readme-stats)
